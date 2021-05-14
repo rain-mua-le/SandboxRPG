@@ -1,0 +1,5 @@
+{
+    "$start": "Start an RPG game in the channel.",
+    "$fight": "Spawns an enemy for the player(s) to fight.",
+    "$help": "Pulls up a list of supported commands and their description"
+}
